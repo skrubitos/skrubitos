@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skrubitos
-- 👀 I’m interested in programing,cyber securit, and crypto
+- 👀 I’m interested in programing,cyber security, and crypto
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any starter topic
 - 📫 How to reach me telegram @skrubitos
