@@ -1,4 +1,4 @@
-👋 Hi, I'm Skrubitos, a passionate programmer with a keen interest in cybersecurity and the world of cryptocurrency. Currently, I am honing my skills in Python and constantly seeking new opportunities to collaborate on starter projects.
+👋 Hi, I'm Skrubitos, a  programmer with a keen interest in cybersecurity and the world of cryptocurrency. Currently, I am upgrading my skills in Python and constantly seeking new opportunities to collaborate on starter projects.
 
 🌱 As a lifelong learner, I am always on the lookout for new challenges and projects that allow me to apply and expand my knowledge of programming, security, and crypto.
 
